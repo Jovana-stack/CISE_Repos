@@ -30,3 +30,5 @@ class App extends Component<{}, State> {
     );
   }
 }
+
+export default App; // Add this line to export App as the default export
