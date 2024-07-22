@@ -15,8 +15,8 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
-    it('should return "My App!"', () => {
-      expect(appController.getHello()).toBe('My App!');
+    it('should return "Jovanas Application!"', () => {
+      expect(appController.getHello()).toBe('Jovanas Application!');
     });
   });
 });
